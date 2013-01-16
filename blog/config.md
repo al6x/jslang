@@ -1,4 +1,4 @@
 Type  : Blog
-Title : JavaScript Language
+Title : JavaScript
 About  :
 Author :
