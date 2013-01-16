@@ -1,14 +1,15 @@
 # Interesting resources for learning
 
-## [Koans](https://github.com/mrdavidlaing/javascript-koans)
+## Koans
 
-Meditate on JavaScript Koans to improve Your skills.
+Meditate on [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans) to
+improve Your skills.
 
 ![Koans](interesting-resources-for-learning/koans.png)
 
-## [Mazes](http://www.jamisbuck.org/presentations/rubyconf2011)
+## Mazes
 
-Play with maze building algorithms.
+Play with [maze building algorithms](http://www.jamisbuck.org/presentations/rubyconf2011).
 
 ![Mazes](interesting-resources-for-learning/mazes.png)
 
