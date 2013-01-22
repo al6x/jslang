@@ -7,6 +7,14 @@ improve Your skills.
 
 ![Koans](interesting-resources-for-learning/koans.png)
 
+## Conway's Game of Life
+
+Play with [Conway's Game of Life](http://willbailey.name/conway/index.html) and it's 
+[source code](http://willbailey.name/conway/docs/conway.html) in CoffeeScript. Sources is very
+small and have detailed documentations.
+
+![Convay's Game of Life](interesting-resources-for-learning/conway.png)
+
 ## Mazes
 
 Play with [maze building algorithms](http://www.jamisbuck.org/presentations/rubyconf2011).
