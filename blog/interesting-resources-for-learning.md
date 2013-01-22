@@ -11,7 +11,7 @@ improve Your skills.
 
 Play with [Conway's Game of Life](http://willbailey.name/conway/index.html) and it's 
 [source code](http://willbailey.name/conway/docs/conway.html) in CoffeeScript. Sources is very
-small and have detailed documentations.
+small and have detailed annotations.
 
 ![Convay's Game of Life](interesting-resources-for-learning/conway.png)
 
