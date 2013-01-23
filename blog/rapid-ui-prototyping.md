@@ -17,6 +17,8 @@ suitable for a web site than for an application.
 
 ![Zurb Foundation](rapid-ui-prototyping/foundation-example.png)
 
+Choose whatever You like more, both of them are good and roughly the same.
+
 You still need to know HTML & CSS but those frameworks will greatly simplify the work,
 also, its own sources are very well documented and are good way to learn new things and
 improve HTML & CSS skills.
