@@ -23,5 +23,7 @@ You still need to know HTML & CSS but those frameworks will greatly simplify the
 also, its own sources are very well documented and are good way to learn new things and
 improve HTML & CSS skills.
 
+By [Alexey Petrushin](http://petrush.in)
+
 Tags : HTML, CSS, Design
 Date : 2013/1/24

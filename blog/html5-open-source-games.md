@@ -17,5 +17,7 @@
 
 [Play](http://operasoftware.github.com/Emberwind) [Sources](https://github.com/operasoftware/Emberwind)
 
+By [Alexey Petrushin](http://petrush.in)
+
 Tags : Game, HTML5
 Date : 2011/11/1
