@@ -1,4 +1,10 @@
-# Amazing HTML5 Open Source Games
+# HTML5 Open Source Games
+
+## Browser Quest
+
+![Browser Quest](html5-open-source-games/browser-quest.png)
+
+[Play](http://browserquest.mozilla.org) [Sources](https://github.com/mozilla/BrowserQuest)
 
 ## EmberWind
 
