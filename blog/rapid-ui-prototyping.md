@@ -4,13 +4,14 @@ There are two very nice frameworks for quickly creating UI. Both of them have lo
 excellent documentation and active community.
 
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) has more components and the default
-theme looks more like an web application.
+theme looks more suitable for web application than a site.
 
 ![Twitter Bootstrap](rapid-ui-prototyping/bootstrap.png)
 
 ![Twitter Bootstrap](rapid-ui-prototyping/bootstrap-example.png)
 
-Default theme of [Zurb Foundation](http://foundation.zurb.com) looks more like a web site.
+The default theme of [Zurb Foundation](http://foundation.zurb.com) on the other hand looks more
+suitable for a web site than for an application.
 
 ![Zurb Foundation](rapid-ui-prototyping/foundation.png)
 
