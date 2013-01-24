@@ -131,5 +131,5 @@ Method Overloading.
 
 By [Alexey Petrushin](http://petrush.in)
 
-Tags: JavaScript, OOP
+Tags: OOP, Inheritance, Learning
 Date: 2012/12/10
