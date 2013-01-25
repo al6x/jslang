@@ -17,5 +17,5 @@ Or with [maze building algorithms](http://www.jamisbuck.org/presentations/rubyco
 
 By [Alexey Petrushin](http://petrush.in)
 
-Tags : CoffeeScript, JavaScript, Learning, Resources
+Tags : CoffeeScript, Learning, Resources
 Date : 2011/12/1
