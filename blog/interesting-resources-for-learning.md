@@ -1,6 +1,6 @@
 # Interesting resources for learning
 
-Meditate on [JavaScript](https://github.com/mrdavidlaing/javascript-koans) or 
+Meditate on [JavaScript](https://github.com/mrdavidlaing/javascript-koans) or
 [CoffeeScript](https://github.com/sleepyfox/coffeescript-koans) Koans to improve Your skills.
 
 ![Koans](interesting-resources-for-learning/koans.png)
@@ -15,7 +15,7 @@ Or with [maze building algorithms](http://www.jamisbuck.org/presentations/rubyco
 
 ![Mazes](interesting-resources-for-learning/mazes.png)
 
-Play with and investigate source code (about two pages of JavaScript) of 
+Play and investigate source code (about two pages of JavaScript) of the
 [Simple Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game).
 
 ![Simple Canvas Game](interesting-resources-for-learning/simple-canvas-game.png)
