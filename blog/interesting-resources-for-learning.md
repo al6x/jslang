@@ -1,7 +1,7 @@
 # Interesting resources for learning
 
-Meditate on [JavaScript Koans](https://github.com/mrdavidlaing/javascript-koans) or 
-[CoffeeScript Koans](https://github.com/sleepyfox/coffeescript-koans) to improve Your skills.
+Meditate on [JavaScript](https://github.com/mrdavidlaing/javascript-koans) or 
+[CoffeeScript](https://github.com/sleepyfox/coffeescript-koans) Koans to improve Your skills.
 
 ![Koans](interesting-resources-for-learning/koans.png)
 
