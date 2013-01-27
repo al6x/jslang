@@ -15,8 +15,8 @@ Or with [maze building algorithms](http://www.jamisbuck.org/presentations/rubyco
 
 ![Mazes](interesting-resources-for-learning/mazes.png)
 
-Play and investigate source code (about two pages of JavaScript) of the
-[Simple Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game).
+Play with [Simple Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game)
+and investigate its source code (about two pages of JavaScript).
 
 ![Simple Canvas Game](interesting-resources-for-learning/simple-canvas-game.png)
 
