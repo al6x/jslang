@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <title>Mocha</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- Vendor -->
+    <link rel="stylesheet" href="vendor/mocha.css" />
+
+    <!-- <script src="vendor/mocha.js"></script>
+    <script src="vendor/chai.js"></script>
+    <script>
+      mocha.setup('bdd')
+      onload = function(){
+        mocha.run()
+      }
+    </script> -->
+
+    <!-- Libraries -->
+    <script src="iBrowser.js"></script>
+    <!-- <script src="helper.js"></script> -->
+
+    <!-- Specs -->
+    <!-- <script src="spec.js"></script> -->
+  </head>
+  <body>
+    <div id="mocha"></div>
+
+    <iframe id='browser' sandbox='allow-same-origin allow-forms allow-scripts' style='width: 100%; height: 500px;'></iframe>
+
+    <script>
+      onload = function(){
+        var iframe = document.getElementById('browser')
+        var browser = new iBrowser(iframe)
+        browser.navigate('http://localhost:3000', function(err){
+          if(err) throw err
+          setTimeout(function(){
+            browser.click('Environments')
+          }, 300)
+        })
+      }
+    </script>
+  </body>
+</html>
