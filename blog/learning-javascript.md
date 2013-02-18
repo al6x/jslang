@@ -36,4 +36,4 @@ sources of some of [real projects](https://github.com/languages/JavaScript/most_
 By [Alexey Petrushin](http://petrush.in)
 
 Tags : CoffeeScript, Learning, Resources
-Date : 2011/18/2
+Date : 2013/2/18

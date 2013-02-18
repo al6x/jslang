@@ -28,4 +28,4 @@ usually small, understanding it requires knowledge of JavaScript and D3.
 By [Alexey Petrushin](http://petrush.in)
 
 Tags : CoffeeScript, Learning, Resources
-Date : 2011/12/1
+Date : 2013/1/12

@@ -20,4 +20,4 @@
 By [Alexey Petrushin](http://petrush.in)
 
 Tags : Game, HTML5
-Date : 2011/11/1
+Date : 2012/11/1
