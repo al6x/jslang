@@ -20,6 +20,11 @@ and investigate its source code (about two pages of JavaScript).
 
 ![Simple Canvas Game](interesting-resources-for-learning/simple-canvas-game.png)
 
+Examine [interactive graphics](http://bl.ocks.org/mbostock) made with D3. While examples itself are
+usually small, understanding it requires knowledge of JavaScript and D3.
+
+![D3 Samples](interesting-resources-for-learning/mbostock.png)
+
 By [Alexey Petrushin](http://petrush.in)
 
 Tags : CoffeeScript, Learning, Resources
