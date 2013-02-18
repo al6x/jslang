@@ -1,8 +1,8 @@
 # Learning JavaScript
 
-Learning JavaScript is both interesting / easy and boring / hard at the same time. It's
+Learning JavaScript is both interesting and hard at the same time. It's
 interesting because it's a nice and powerful language and hard because it has
-[deadly flaws and misconceptions](misunderstanding-of-javascript).
+[design flaws and unfixed bugs](misunderstanding-of-javascript).
 
 There are also adjacent technologies that usually confused with JavaScript, let's make
 it clear:
