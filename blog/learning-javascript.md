@@ -32,7 +32,7 @@ playing with [interesting projects](interesting-resources-for-learning). You can
 [cheatsheet](http://alexeypetrushin.github.com/cheatsheets/javascript.html) as a quick reference.
 
 After you read the book and have some experience good way to continue is to examine
-sources of some of [real projects](https://github.com/languages/JavaScript/most_watched).
+sources of [real projects](https://github.com/languages/JavaScript/most_watched).
 
 By [Alexey Petrushin](http://petrush.in)
 
