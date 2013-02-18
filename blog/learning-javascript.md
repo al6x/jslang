@@ -28,7 +28,8 @@ itself. To learn how to use it efficiently read one of books below.
 ![Eloquent JavaScript](learning-javascript/eloquent-javascript.png)
 
 Also, spent some time meditating on [Koans](https://github.com/mrdavidlaing/javascript-koans) or
-playing with [interesting projects](interesting-resources-for-learning).
+playing with [interesting projects](interesting-resources-for-learning). You can use
+[cheatsheet](http://alexeypetrushin.github.com/cheatsheets/javascript.html) as a quick reference.
 
 After you read the book and have some experience good way to continue is to examine
 sources of some of [real projects](https://github.com/languages/JavaScript/most_watched).
