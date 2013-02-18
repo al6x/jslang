@@ -17,7 +17,7 @@ interaction to web page, but it makes it harder to learn more complex stuff.
 
 Big advantage of JavaScript is that it's forgiving - it allows you to start without having good
 understanding of the language. But if you want to be efficient - you need to know the language
-itself, take a look at one of books below.
+itself. To learn how to use it efficiently read one of books below.
 
 [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
