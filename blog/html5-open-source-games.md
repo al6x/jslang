@@ -1,6 +1,6 @@
 # HTML5 Open Source Games
 
-## Browser Quest
+## [Browser Quest](http://browserquest.mozilla.org)
 
 MMO RPG from Mozilla Experiment, [open source](https://github.com/mozilla/BrowserQuest),
 you can [play it here](http://browserquest.mozilla.org).
