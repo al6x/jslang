@@ -30,7 +30,7 @@ So, there was very interesting situation - JavaScript became the key technology,
 one can really change it, even to improve or fix bugs. All changes should be backward compatible.
 
 But, money can make dreams real, especially if it's really big money. Huge companies invested tons
-of time, research and development into Browsers - and miracle happened. Flawed and buggy prototype
+of time, research and development into Browsers - and miracle happen. Flawed and buggy prototype
 became **one the best dynamic language** available.
 
 ## Strengths
@@ -39,7 +39,7 @@ Thankfully creator of JavaScript is a smart guy, and even with the given constra
 like Java and Visual Basic" he still managed to keep the core of the language clean and powerful.
 The core of JavaScript looks more like a Lisp than Java or Basic.
 
-So, JavaScript is dynamic and functional language with closures and prototypes.
+So, JavaScript is a dynamic and functional language with closures and prototypes.
 
 It's also
 [the fastest interpreted language](http://benchmarksgame.alioth.debian.org/u32/which-programs-are-fastest.php) -
