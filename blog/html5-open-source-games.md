@@ -14,7 +14,7 @@ RPG from [Liberated Pixel Cup](http://lpc.opengameart.org), built with HTML5 and
 [short post from author](http://opengameart.org/forumtopic/neverwell-moor-html5-game-progress-thread)
 and [video overview](http://www.youtube.com/watch?v=JagSFQOMyQc).
 
-![](interesting-games/neverwell-moor.png)
+![](html5-open-source-games/neverwell-moor.png)
 
 ## [Monk Story](http://uniquevn.github.com/CraftyGame)
 
@@ -23,14 +23,14 @@ and CraftyJS, [open source](http://github.com/uniquevn/CraftyGame), there's also
 [short post form author](http://opengameart.org/forumtopic/monk-story)
 [video overview](http://www.youtube.com/watch?v=HItxyniV-Es).
 
-![](interesting-games/monk-story.png)
+![](html5-open-source-games/monk-story.png)
 
 ## [Eat them all](https://github.com/Chinow/Eat-them-All)
 
 TD / RTS built with CraftyJS, [open source](https://github.com/Chinow/Eat-them-All),
 [video overview](http://www.youtube.com/watch?v=uqMBX9mxZQo).
 
-![](interesting-games/eat-them-all.png)
+![](html5-open-source-games/eat-them-all.png)
 
 ## [Liberated Pixel Cup](http://lpc.opengameart.org)
 
@@ -39,7 +39,7 @@ TD / RTS built with CraftyJS, [open source](https://github.com/Chinow/Eat-them-A
 [source of demo](https://gitorious.org/liberated-pixel-cup) and
 [video overview](http://www.youtube.com/watch?v=K8mW2th7-H0)
 
-![](interesting-games/liberated-pixel-cup.gif)
+![](html5-open-source-games/liberated-pixel-cup.gif)
 
 ## EmberWind
 
