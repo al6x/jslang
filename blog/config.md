@@ -1,2 +1,4 @@
-Type  : Blog
-Title : JavaScript
+# Attributes
+
+- Type  : Blog
+- Title : JavaScript

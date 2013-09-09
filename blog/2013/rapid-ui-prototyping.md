@@ -25,5 +25,7 @@ improve HTML & CSS skills.
 
 By [Alexey Petrushin](http://petrush.in)
 
-Tags : HTML, CSS, Design
-Date : 2013/1/24
+# Attributes
+
+- Tags : HTML, CSS, Design
+- Date : 2013/1/24

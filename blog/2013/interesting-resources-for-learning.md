@@ -18,14 +18,16 @@ Or with [maze building algorithms](http://www.jamisbuck.org/presentations/rubyco
 Play with [Simple Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game)
 and investigate its source code (about two pages of JavaScript).
 
-![Simple Canvas Game](interesting-resources-for-learning/simple-canvas-game.png)
+![Simple Canvas Game](interesting-resources-for-learning/simple-canvas-game.jpg)
 
 Examine [interactive graphics](http://bl.ocks.org/mbostock) made with D3. While examples itself are
 usually small, understanding it requires knowledge of JavaScript and D3.
 
-![D3 Samples](interesting-resources-for-learning/mbostock.png)
+![D3 Samples](interesting-resources-for-learning/mbostock.jpg)
 
 By [Alexey Petrushin](http://petrush.in)
 
-Tags : CoffeeScript, Learning, Resources
-Date : 2013/1/12
+# Attributes
+
+- Tags : CoffeeScript, Learning, Resources
+- Date : 2013/1/12

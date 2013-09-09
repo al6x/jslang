@@ -5,7 +5,7 @@
 MMO RPG from Mozilla Experiment, [open source](https://github.com/mozilla/BrowserQuest),
 you can [play it here](http://browserquest.mozilla.org).
 
-![Browser Quest](html5-open-source-games/browser-quest.png)
+![Browser Quest](html5-open-source-games/browser-quest.jpg)
 
 ## [Neverwell Moor](http://parasyte.kodewerx.org/projects/lpcgame)
 
@@ -14,7 +14,7 @@ RPG from [Liberated Pixel Cup](http://lpc.opengameart.org), built with HTML5 and
 [short post from author](http://opengameart.org/forumtopic/neverwell-moor-html5-game-progress-thread)
 and [video overview](http://www.youtube.com/watch?v=JagSFQOMyQc).
 
-![](html5-open-source-games/neverwell-moor.png)
+![](html5-open-source-games/neverwell-moor.jpg)
 
 ## [Monk Story](http://uniquevn.github.com/CraftyGame)
 
@@ -23,14 +23,14 @@ and CraftyJS, [open source](http://github.com/uniquevn/CraftyGame), there's also
 [short post form author](http://opengameart.org/forumtopic/monk-story)
 [video overview](http://www.youtube.com/watch?v=HItxyniV-Es).
 
-![](html5-open-source-games/monk-story.png)
+![](html5-open-source-games/monk-story.jpg)
 
 ## [Eat them all](https://github.com/Chinow/Eat-them-All)
 
 TD / RTS built with CraftyJS, [open source](https://github.com/Chinow/Eat-them-All),
 [video overview](http://www.youtube.com/watch?v=uqMBX9mxZQo).
 
-![](html5-open-source-games/eat-them-all.png)
+![](html5-open-source-games/eat-them-all.jpg)
 
 ## [Liberated Pixel Cup](http://lpc.opengameart.org)
 
@@ -55,5 +55,7 @@ and [playable](http://operasoftware.github.com/Emberwind).
 
 By [Alexey Petrushin](http://petrush.in)
 
-Tags : Game, HTML5
-Date : 2012/11/1
+# Attributes
+
+- Tags : Game, HTML5
+- Date : 2012/11/1

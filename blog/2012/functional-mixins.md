@@ -131,5 +131,7 @@ Method Overloading.
 
 By [Alexey Petrushin](http://petrush.in)
 
-Tags: OOP, Inheritance, Learning
-Date: 2012/12/10
+# Attributes
+
+- Tags: OOP, Inheritance, Learning
+- Date: 2012/12/10

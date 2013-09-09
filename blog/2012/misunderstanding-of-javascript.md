@@ -66,4 +66,6 @@ be used.
 
 By [Alexey Petrushin](http://petrush.in)
 
-Date : 2012/10/1
+# Attributes
+
+- Date : 2012/10/1
