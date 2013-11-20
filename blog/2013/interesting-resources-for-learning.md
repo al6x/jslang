@@ -5,6 +5,11 @@ Meditate on [JavaScript](https://github.com/mrdavidlaing/javascript-koans) or
 
 ![Koans](interesting-resources-for-learning/koans.png)
 
+Play and learn source code of [Space Mahjong](http://10k.aneventapart.com/Entry/607)
+a simple Card Game.
+
+![Space Mahjong](interesting-resources-for-learning/space-mahjong.png)
+
 Play with [Conway's Game of Life](http://willbailey.name/conway/index.html) and it's
 [source code](http://willbailey.name/conway/docs/conway.html) (in CoffeeScript). Sources is very
 small and have detailed annotations.
