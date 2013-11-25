@@ -1,7 +1,7 @@
 # Attributes
 
 - Application : Blog
-- Order       : Descending
+- Sort by     : Date ascending
 - Title       : SaleJS
-- About       : Creating cart-widget to turn sites into shops.
+- About       : Creating Cart Widget to turn sites into shops.
 - Navigation  : Q&A, http://groups.google.com/forum/#!forum/jslang

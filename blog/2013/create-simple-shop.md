@@ -14,9 +14,13 @@ You'll learn how to:
 - Create dynamic Forms with JavaScript and validate it.
 - Instant reaction UI without blocking, waiting and progress.
 
+Drawing UI
+
+![Shop and Cart](create-simple-shop/shop-and-cart.jpg)
+
 [Continue...](/projects/salejs)
 
 # Attributes
 
-- Tags : Learning
+- Tags : Learning, Prototype, JavaScript, CSS, HTML, NodeJS
 - Date : 2013/11/13

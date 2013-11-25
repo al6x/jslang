@@ -1,7 +1,7 @@
 # How to create simple online shop.
 
-In this course we create cart-widget that can be embedded into sites
-in order to allow its users to buy products and send orders to
+In this course we create [Cart Widget](https://github.com/alexeypetrushin/salejs) that
+can be embedded into sites in order to allow its users to buy products and send orders to
 the site owner.
 
 You'll learn how to:
@@ -13,6 +13,7 @@ You'll learn how to:
 - Simplify CSS styling using Browser live refresh.
 - Create dynamic Forms with JavaScript and validate it.
 - Instant reaction UI without blocking, waiting and progress.
+- Localisation to multiple languages.
 
 Additionally you'll also learn how to:
 
