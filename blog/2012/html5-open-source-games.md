@@ -3,7 +3,7 @@
 ## [Grits](http://gritsgame.appspot.com)
 
 Top down 2D shooter made by Google to demonstrate possibilities of HTML5 for gaming.
-You can [play it](http://gritsgame.appspot.com) take 
+You can [play it](http://gritsgame.appspot.com) take
 [learning course](https://www.udacity.com/course/cs255) made by Google and Udacity
 or [checkout sources](https://code.google.com/p/gritsgame/).
 

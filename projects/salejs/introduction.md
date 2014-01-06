@@ -1,8 +1,8 @@
 # How to create simple online shop.
 
-In this course we create [Cart Widget](https://github.com/alexeypetrushin/salejs) that
-can be embedded into sites in order to allow its users to buy products and send orders to
-the site owner.
+In this course we create [Cart Widget](http://salejs.com) that can be
+embedded into sites in order to allow its users to buy products and send
+orders to site owner.
 
 You'll learn how to:
 

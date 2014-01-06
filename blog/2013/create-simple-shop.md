@@ -1,8 +1,8 @@
 # Create simple shop.
 
-In [this course](/projects/salejs) we create cart-widget that can be
-embedded into sites in order to allow its users to buy products and send
-orders to the site owner.
+In [this course](/projects/salejs) we create [Cart Widget](http://salejs.com)
+that can be embedded into sites in order to allow its users to buy products
+and send orders to the site owner.
 
 You'll learn how to:
 
