@@ -5,3 +5,4 @@
 - Title       : SaleJS
 - About       : Creating Cart Widget to turn sites into shops.
 - Navigation  : Q&A, http://groups.google.com/forum/#!forum/jslang
+- Google ID   : UA-54125691-2
