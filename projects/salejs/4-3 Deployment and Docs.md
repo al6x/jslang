@@ -9,6 +9,4 @@ this project [on GitHub](https://github.com/alexeypetrushin/salejs).
 
 Please star if you are interested to see rest of it.
 
-# Attributes
-
 - Date  : 2014/1/6

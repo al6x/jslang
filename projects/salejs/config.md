@@ -1,5 +1,3 @@
-# Attributes
-
 - Application : Blog
 - Sort by     : Date ascending
 - Title       : SaleJS

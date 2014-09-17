@@ -30,9 +30,7 @@ usually small, understanding it requires knowledge of JavaScript and D3.
 
 ![D3 Samples](interesting-resources-for-learning/mbostock.jpg)
 
-By [Alexey Petrushin](http://petrush.in)
-
-# Attributes
+By [Alex Craft](http://alex-craft.com)
 
 - Tags : CoffeeScript, Learning, Resources
 - Date : 2013/1/12

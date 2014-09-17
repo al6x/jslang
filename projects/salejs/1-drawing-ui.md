@@ -11,6 +11,4 @@ Drawing different states of Cart Widget.
 
 ![States of Cart Widget](1-drawing-ui/cart-states.jpg)
 
-# Attributes
-
 - Date  : 2013/11/21

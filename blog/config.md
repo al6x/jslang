@@ -1,6 +1,5 @@
-# Attributes
-
 - Application : Blog
 - Title       : JavaScript
 - Navigation  : Q&A, http://groups.google.com/forum/#!forum/jslang
 - Google ID   : UA-54125691-2
+- Mount as root

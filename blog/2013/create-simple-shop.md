@@ -20,7 +20,6 @@ Drawing UI
 
 [Continue...](/projects/salejs)
 
-# Attributes
-
 - Tags : Learning, Prototype, JavaScript, CSS, HTML, NodeJS
 - Date : 2013/11/13
+- Link : /projects/salejs

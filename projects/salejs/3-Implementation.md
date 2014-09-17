@@ -65,6 +65,4 @@ needed support for the russian language right from the start. So, I doesn't have
 to add it, but in most cases there's no need for it, it can be added later there will be a need
 for it.
 
-# Attributes
-
 - Date  : 2013/11/29

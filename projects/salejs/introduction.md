@@ -33,8 +33,6 @@ Because it would be a mistake to use it in this case. This is relatively
 simple Application and in this case MVC is overkill and only complicates
 our code without any advantage.
 
-By [Alexey Petrushin](http://petrush.in)
-
-# Attributes
+By [Alex Craft](http://alex-craft.com)
 
 - Date : 2013/11/13

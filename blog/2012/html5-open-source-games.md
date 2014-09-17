@@ -62,9 +62,7 @@ and [playable](http://operasoftware.github.com/Emberwind).
   <embed src="http://www.youtube.com/v/5hZeTKaHsC8?version=3&hl=en_US" type="application/x-shockwave-flash" width="640" height="390" allowscriptaccess="always" allowfullscreen="true"></embed>
 </object>
 
-By [Alexey Petrushin](http://petrush.in)
-
-# Attributes
+By [Alex Craft](http://alex-craft.com)
 
 - Tags : Game, HTML5
 - Date : 2012/11/1

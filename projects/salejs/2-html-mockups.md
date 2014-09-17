@@ -80,6 +80,4 @@ marked with `html-mockups` tag.
 
 <iframe width="853" height="480" src="//www.youtube.com/embed/TilcurMfDcA" frameborder="0" allowfullscreen></iframe>
 
-# Attributes
-
 - Date  : 2013/11/23

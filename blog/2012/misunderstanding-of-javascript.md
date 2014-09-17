@@ -64,8 +64,6 @@ set of evolved practices, tricks and hacks to make it work. It also makes it har
 big part of its specification - is descriptions of bugs and flaws that cannot be fixed and shouldn't
 be used.
 
-By [Alexey Petrushin](http://petrush.in)
-
-# Attributes
+By [Alex Craft](http://alex-craft.com)
 
 - Date : 2012/10/1

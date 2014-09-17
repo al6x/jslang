@@ -129,9 +129,7 @@ Supports all well known things such as: Object Oriented Programming, Encapsulati
 Inheritance, Calling Super, Instance Method Inheritance, Class Method Inheritance,
 Method Overloading.
 
-By [Alexey Petrushin](http://petrush.in)
-
-# Attributes
+By [Alex Craft](http://alex-craft.com)
 
 - Tags: OOP, Inheritance, Learning
 - Date: 2012/12/10
