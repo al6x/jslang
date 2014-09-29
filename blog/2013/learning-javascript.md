@@ -30,16 +30,18 @@ itself. To learn how to use it efficiently read one of books below.
 There's also short (about an hour)
 [introductory course](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).
 
-Also, spent some time meditating on [Koans](https://github.com/mrdavidlaing/javascript-koans) or
-playing with [interesting projects](interesting-resources-for-learning). If you're interested
-in node.js you may also take a look at http://nodeschool.io. 
+Also, spent some time meditating on [Koans](https://github.com/mrdavidlaing/javascript-koans), you 
+can use [cheatsheet](http://alexeypetrushin.github.com/cheatsheets/javascript.html) 
+and http://devdocs.io as a quick reference.
 
-You can use
-[cheatsheet](http://alexeypetrushin.github.com/cheatsheets/javascript.html) and http://devdocs.io
-as a quick reference.
+# What to do next?
 
-After you read the book and have some experience good way to continue is to examine sources of 
-[real projects](https://github.com/search?o=desc&q=language%3Ajavascript&s=stars&type=Repositories&utf8=%E2%9C%93).
+After you learn basics - it may be interesting to examine sources and play with
+[JS toys](interesting-toys-for-learning)
+
+[![](interesting-toys-for-learning/thumbnails.png)](interesting-toys-for-learning)
+
+or some of [top JS Projects on GitHub](https://github.com/search?o=desc&q=language%3Ajavascript&s=stars&type=Repositories&utf8=%E2%9C%93).
 
 By [Alex Craft](http://alex-craft.com)
 
